@@ -1,23 +1,21 @@
 # Computer Graphics Course 🎨
 
-This folder contains assignments and projects for the **Computer Graphics** course. It documents the practical implementation of graphics algorithms and techniques.
+This folder contains assignments and projects for the **Computer Graphics** course.
 
 ## Project Contents:
 
 ### 1. Drawing Shapes (Assignment 1)
 * **File:** `Drawing_Shapes.cpp`
-* **Description:** A C++ implementation for rendering basic geometric shapes (such as circles, squares, and lines) using graphics algorithms.
-* **Environment:** Developed using Visual Studio.
+* **Description:** A C++ implementation for rendering basic geometric shapes using OpenGL.
+* **Output:**
+![Assignment 1 Output](Screenshot%202026-03-14%20123101.png)
 
 ### 2. Transformations Task (Assignment 2)
 * **File:** `Transformations_Task.cpp`
-* **Description:** Demonstrates 2D transformations including **Rotation** about the Y-axis and **Translation** along the X-axis using `glPushMatrix` and `glPopMatrix`.
-* **Key Concepts:** Aspect Ratio handling, `glRotatef`, and `glTranslatef`.
-* **Environment:** Developed using Visual Studio.
-
-## Goals:
-* To demonstrate the practical application of computer graphics concepts.
-* To maintain a clean and documented code repository for university assignments.
+* **Description:** Demonstrates 2D transformations including Rotation and Translation.
+* **Key Concepts:** Aspect Ratio handling and OpenGL Matrix operations.
+* **Output:**
+![Assignment 2 Output](Screenshot%202026-03-14%20124517.png)
 
 ---
 *Computer Science @ ECU*
