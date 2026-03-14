@@ -1,3 +1,9 @@
+/* * Project: OpenGL Basic Shapes & Coordination
+ * Course: Computer Graphics
+ * Description: This program renders four colored triangles forming a square-like shape 
+ * around the origin, with red and cyan axis lines added for orientation.
+ * Library: GLUT/OpenGL
+ */
 #include <GL/glut.h>
 
 void display() {
